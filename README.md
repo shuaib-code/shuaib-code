@@ -1,21 +1,26 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Shuaib</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
 <br>
 
 I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate about building scalable web applications and interactive user interfaces. With a keen interest in creating efficient solutions, I specialize in **React**, **Node.js**, and **MongoDB** to develop robust and modern applications.
 
+<br>
+
 ## 🚀 About Me
-- 🌱 I’m currently learning **Next.js** to expand my skills into SSR.
+- 🌱 I’m currently learning **Next.js** to expand my skills.
 - 💻 I enjoy exploring new technologies and enhancing my programming knowledge.
-- 🔭 I'm working on a personal project **Library Management System** with features like QR code scanning for book management.
-- 🏆 My goal is to become a proficient software engineer, delivering impactful solutions.
+
+<br>
 
 ## 💡 Interests
 - **Web Development:** Building responsive and interactive frontends with clean, reusable code.
 - **Problem Solving:** Tackling coding challenges and enhancing algorithmic thinking.
 - **Collaborative Projects:** I love working with others to create meaningful and impactful software.
 - **Learning:** Constantly exploring new frameworks, libraries, and tools.
+
+<br>
 
 ## 💼 Tech Stack
 
@@ -27,3 +32,5 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 - LinkedIn: [Mohammad Shuaib](https://linkedin.com/in/shuaib-code)
 - GitHub: [@shuaib-code](https://github.com/shuaib-code)
 - Email: [shuaib.cyclist@gmail.com](mailto:shuaib.cyclist@gmail.com)
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
