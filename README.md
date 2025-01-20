@@ -1,6 +1,8 @@
 <img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/shuaib-code/shuaib-code/refs/heads/main/assets/banner.png" />
 
-# <h1 align="center">Hi 👋, I'm Mohammad Shuaib</h1>
+<h1 align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  Hi 👋, I'm Mohammad Shuaib
+</h1>
 
 <br/>
 
