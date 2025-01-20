@@ -1,5 +1,6 @@
 <img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/shuaib-code/shuaib-code/refs/heads/main/assets/banner.png" />
-<p></p>
+
+#
 
 I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate about building scalable web applications and interactive user interfaces. With a keen interest in creating efficient solutions, I specialize in **React**, **Node.js**, and **MongoDB** to develop robust and modern applications.
 
