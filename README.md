@@ -24,9 +24,18 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 
 ## 💼 Tech Stack
 
-<h3 align="center">Languages & Frameworks:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py" /><br><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /></a></p>
-<h3 align="center">Tools & Platforms:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb" /><br><img src="https://skillicons.dev/icons?i=vscode,powershell,npm,pnpm" /></a></p>
-<h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows" /></a></p><br>
+<h3 align="center">Languages & Frameworks:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,py" /><br><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sass" /></a></p>
+<h3 align="center">Tools & Platforms:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,vite,tailwind" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=redux,mongodb,postman,vercel,regex" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=powershell,vscode,npm,pnpm,bash" />
+  </a>
+</p>
+<h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord,devto" /></a></p><br>
 
 ## 🌐 Connect with Me
 
