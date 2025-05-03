@@ -47,14 +47,17 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 </p>
 <h3 align="center">Others:</h3><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail,linkedin,windows,discord,devto" /></a></p><br>
 
+
+<br/>
+[![Shuaib's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shuaib-code&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Shuaib's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shuaib-code&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br/>
+
 ## 🌐 Connect with Me
 
 - LinkedIn: [Mohammad Shuaib](https://linkedin.com/in/shuaib-code)
 - GitHub: [@shuaib-code](https://github.com/shuaib-code)
 - Email: [mohammadshuaib233@gmail.com](mailto:mohammadshuaib233@gmail.com)
 
-
-[![Shuaib's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shuaib-code&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Shuaib's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shuaib-code&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
