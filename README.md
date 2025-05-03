@@ -25,6 +25,10 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 - **Problem Solving:** Tackling coding challenges and enhancing algorithmic thinking.
 - **Collaborative Projects:** I love working with others to create meaningful and impactful software.
 - **Learning:** Constantly exploring new frameworks, libraries, and tools.
+- **System-Level Programming:** Enjoy working with hardware monitoring, event-driven scripts, and automation.
+- **Smart Systems & AI:** Interested in integrating AI and data-driven features into web apps.
+- **Developer Tools & Automation:** Creating tools and scripts that simplify workflows or boost productivity.
+- **Open Source & Documentation:** Valuing clean code, structured documentation, and contributions that help others learn.
 
 <br>
 
