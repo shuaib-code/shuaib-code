@@ -8,8 +8,14 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Next.js** to expand my skills.
+- 🌱 I’m currently learning **Next.js** to expand my skills.  
 - 💻 I enjoy exploring new technologies and enhancing my programming knowledge.
+- 🔍 I'm currently exploring:
+  - ⚙️ **System automation**
+  - 🧠 **AI-driven development**
+  - 💡 **Low-level system interactions (C/C++)**
+  - 🔌 **Real-time apps with WebSockets and tRPC**
+  - 🐳 **CI/CD, Docker, REST & GraphQL APIs**
 
 <br>
 
