@@ -2,7 +2,7 @@
 
 # 🔹
 
-I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate about building scalable web applications and interactive user interfaces. With a keen interest in creating efficient solutions, I specialize in **React**, **Node.js**, and **MongoDB** to develop robust and modern applications.
+I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate about building scalable web applications and interactive user interfaces. With a keen interest in creating efficient solutions, I specialize in **React**, **Node.js**, **MongoDB**, **Typescript** to develop robust and modern applications.
 
 <br/>
 
@@ -41,6 +41,6 @@ I'm a **MERN Stack Developer** and an aspiring **Software Engineer**, passionate
 
 - LinkedIn: [Mohammad Shuaib](https://linkedin.com/in/shuaib-code)
 - GitHub: [@shuaib-code](https://github.com/shuaib-code)
-- Email: [shuaib.cyclist@gmail.com](mailto:shuaib.cyclist@gmail.com)
+- Email: [mohammadshuaib233@gmail.com](mailto:mohammadshuaib233@gmail.com)
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
